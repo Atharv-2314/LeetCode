@@ -2,9 +2,9 @@ class Solution {
     public int totalNumbers(int[] digits) {
         int[] freq = new int[10];
 
-        for (int digit : digits) {
+        for (int digit : digits) 
             freq[digit]++;
-        }
+        
 
         int count = 0;
 
@@ -20,16 +20,14 @@ class Solution {
 
             boolean possible = true;
 
-            for (int digit = 0; digit <= 9; digit++) {
+            for (int digit = 0; digit <= 9; digit++) 
                 if (used[digit] > freq[digit]) {
                     possible = false;
                     break;
                 }
-            }
 
-            if (possible) {
+            if (possible) 
                 count++;
-            }
         }
 
         return count;
