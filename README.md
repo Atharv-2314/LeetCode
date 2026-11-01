@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Atharv-2314/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Atharv-2314/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atharv-2314/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atharv-2314/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Atharv-2314/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Atharv-2314/LeetCode/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/Atharv-2314/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharv-2314/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
