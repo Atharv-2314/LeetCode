@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Atharv-2314/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atharv-2314/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atharv-2314/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Atharv-2314/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Atharv-2314/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atharv-2314/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Atharv-2314/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atharv-2314/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Atharv-2314/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atharv-2314/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Atharv-2314/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharv-2314/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atharv-2314/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atharv-2314/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Atharv-2314/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Atharv-2314/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Atharv-2314/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atharv-2314/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Atharv-2314/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atharv-2314/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Atharv-2314/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3693-climbing-stairs-ii](https://github.com/Atharv-2314/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atharv-2314/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
