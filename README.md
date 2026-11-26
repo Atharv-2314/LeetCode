@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Atharv-2314/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atharv-2314/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/Atharv-2314/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Atharv-2314/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Atharv-2314/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atharv-2314/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Atharv-2314/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atharv-2314/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Atharv-2314/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Atharv-2314/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
